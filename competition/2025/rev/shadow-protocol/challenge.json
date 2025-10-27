@@ -1,0 +1,13 @@
+{
+    "name": "Shadow-Protocol",
+    "description": "No description provided.",
+    "author": "",
+    "box": "rev.chal.csaw.io",
+    "internal_port": 3000,
+    "category": "reverse",
+    "flag": "CSAW{pr070c0l5_1n_7h3_5h4d0w5_4r3_h4rd_70_r3v3r53_xxxx}",
+    "files": [
+      "infra/handout/shadow_protocol"
+    ]
+  }
+  

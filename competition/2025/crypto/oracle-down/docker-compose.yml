@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  game-server:
+    image: llmctf/2025q-cry-oracle_down
+    networks:
+      ctfnet:
+        aliases:
+          - crypto.chal.csaw.io
+    ports:
+      - 22333:21004
+
+networks:
+  ctfnet:
+    external: true

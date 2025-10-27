@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  shadow_protocol:
+    build: llmctf/2025q-rev-infra_shadow_protocol
+    container_name: shadow_protocol
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    pids_limit: 128
+    networks:
+      ctfnet:
+        aliases:
+          - rev.chal.csaw.io
+
+networks:
+  ctfnet:
+    external: true

@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  game-server:
+    image: llmctf/2025q-rev-space_portal
+    networks:
+      ctfnet:
+        aliases:
+          - rev.chal.csaw.io
+    ports:
+      - 22333:21000
+
+networks:
+  ctfnet:
+    external: true

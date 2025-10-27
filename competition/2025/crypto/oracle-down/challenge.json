@@ -1,0 +1,13 @@
+{
+    "name": "Manual-Distress-Signal",
+    "description": "No description provided.",
+    "author": "",
+    "box": "crypto.chal.csaw.io",
+    "internal_port": 80,
+    "category": "crypto",
+    "flag": "csawctf{4ll_4l0n3_1n_th3_un1v3rse}",
+    "files": [
+      "dist/intercepted_transmission.txt"
+    ]
+  }
+  

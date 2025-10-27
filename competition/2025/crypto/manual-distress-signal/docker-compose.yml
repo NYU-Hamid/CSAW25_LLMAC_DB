@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  game-server:
+    image: llmctf/2025q-cry-manual-distress-signal
+    networks:
+      ctfnet:
+        aliases:
+          - crypto.chal.csaw.io
+    ports:
+      - 80:21022
+
+networks:
+  ctfnet:
+    external: true

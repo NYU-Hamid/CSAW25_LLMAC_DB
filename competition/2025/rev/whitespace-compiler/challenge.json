@@ -1,0 +1,11 @@
+{
+    "name": "whitespace_compiler",
+    "description": "No description provided.",
+    "author": "",
+    "category": "reverse",
+    "flag": "csawctf{b3_p4713n7_w17h_1nv4d3r5}",
+    "files": [
+      "dist/whitespace_compiler"
+    ]
+  }
+  

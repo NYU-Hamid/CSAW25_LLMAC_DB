@@ -1,0 +1,13 @@
+{
+    "name": "galaxy",
+    "description": "No description provided.",
+    "author": "",
+    "box": "msc.chal.csaw.io",
+    "internal_port": 21009,
+    "category": "misc",
+    "flag": "csawctf{g@l@xy_0bserv3r$}",
+    "files": [
+      "dist/main.py"
+    ]
+  }
+  
