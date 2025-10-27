@@ -1,0 +1,13 @@
+{
+    "name": "orion-override",
+    "description": "Orion Control is a web interface simulating the admin dashboard for NASA's Orion spacecraft missions. It displays mission telemetry, comms logs, and access to abort override functions. Players discover a login portal at /login where they can access a user dashboard. The goal is to gain unauthorized access to the admin dashboard to abort a critical mission situation.",
+    "author": "",
+    "box": "web.chal.csaw.io",
+    "internal_port": 3555,
+    "category": "web",
+    "flag": "csawctf{h7tpp0llut10n_0r10n_z8y7x6w5v4u3}",
+    "files": [
+
+    ]
+  }
+  

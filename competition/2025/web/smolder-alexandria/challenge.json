@@ -1,0 +1,13 @@
+{
+    "name": "smolder-alexandria",
+    "description": "Shell injection",
+    "author": "",
+    "box": "web.chal.csaw.io",
+    "internal_port": 3700,
+    "category": "web",
+    "flag": "csawctf{5m0Ld3r_bUrN_1mm0l473_R463}",
+    "files": [
+
+    ]
+  }
+  

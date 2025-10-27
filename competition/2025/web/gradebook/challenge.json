@@ -1,0 +1,13 @@
+{
+    "name": "power-up",
+    "description": "Web challenge involving multiple attack vectors including XSS and CSRF. Players must change each of their five grades to an \"A\" to get the flag.",
+    "author": "",
+    "box": "web_client.chal.csaw.io",
+    "internal_port": 4747,
+    "category": "web",
+    "flag": "csawctf{y0u_m@de_the_h@cking_h0n0r_r0ll}",
+    "files": [
+      "dist/dist.zip"
+    ]
+  }
+  
