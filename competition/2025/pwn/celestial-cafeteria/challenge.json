@@ -5,7 +5,6 @@
     "box": "pwn.chal.csaw.io",
     "internal_port": 21008,
     "category": "pwn",
-    "flag": "csawctf{Rinbo2_wh47_4_yummy_b07c4k3_cohqif_0n3_m0r3_p13453_duzsad}",
     "files": [
       "infra/chal"
     ]
