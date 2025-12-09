@@ -6,7 +6,7 @@
   "points": 25,
   "internal_port": 31137,
   "compose": true,
-  "reference": "https://github.com/ajn313/ML-CyberSec-2025-Lab2-Public/tree/main/my_first_pwnie",
+  "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/my_first_pwnie",
   "box": "pwn.chal.csaw.io",
   "files": [
     "my_first_pwnie.py"
