@@ -6,7 +6,7 @@
   "points": 75,
   "internal_port": 31140,
   "compose": true,
-  "reference": "https://github.com/ajn313/ML-CyberSec-2025-Lab2-Public/tree/main/puffin",
+  "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/puffin",
   "box": "pwn.chal.csaw.io",
   "files": [
     "puffin",

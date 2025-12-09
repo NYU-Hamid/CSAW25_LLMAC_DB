@@ -6,7 +6,7 @@
   "points": 50,
   "internal_port": 31138,
   "compose": true,
-  "reference": "https://github.com/ajn313/ML-CyberSec-2025-Lab2-Public/tree/main/target%20practice",
+  "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/target_practice",
   "box": "pwn.chal.csaw.io",
   "files": [
     "target_practice"
