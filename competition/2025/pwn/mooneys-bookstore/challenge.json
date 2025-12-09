@@ -5,8 +5,9 @@
     "box": "pwn.chal.csaw.io",
     "internal_port": 21006,
     "category": "pwn",
+    "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/mooneys-bookstore",
     "files": [
-      "infra/chal"
+      "overflow_me"
     ]
   }
   

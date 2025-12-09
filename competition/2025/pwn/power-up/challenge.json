@@ -5,8 +5,11 @@
     "box": "pwn.chal.csaw.io",
     "internal_port": 21005,
     "category": "pwn",
+    "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/power-up",
     "files": [
-      "infra/chal"
+      "chal",
+      "ld-linux-x86-64.so.2",
+      "libc.so.6"
     ]
   }
   

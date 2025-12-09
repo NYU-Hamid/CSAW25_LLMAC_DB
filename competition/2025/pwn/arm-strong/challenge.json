@@ -4,9 +4,10 @@
     "author": "",
     "box": "pwn.chal.csaw.io",
     "internal_port": 21003,
+    "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/arm-strong",
     "category": "pwn",
     "files": [
-      "infra/chal"
+      "chal"
     ]
   }
   

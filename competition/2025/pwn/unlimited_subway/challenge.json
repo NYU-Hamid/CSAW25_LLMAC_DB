@@ -9,7 +9,7 @@
     "internal_port":7900,
     "points": 92,
     "compose": true,
-    "reference": "https://github.com/osirislab/CSAW-CTF-2023-Quals/tree/main/pwn/unlimited_subway",
+    "reference": "https://github.com/NYU-Hamid/CSAW25_LLMAC_DB/tree/main/competition/2025/pwn/unlimited_subway",
     "box": "pwn.chal.csaw.io",
-    "files":["share.zip"]
+    "files":["unlimited_subway"]
 }
